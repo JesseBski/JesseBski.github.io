@@ -27,10 +27,15 @@ In this project I led a team of 4 students in a Virginia Tech Project Management
 **Tools Used**
 > Wix & Google Sites
 
-**What I learned By Being a Project Manager In a Simulated Environment**
-**Scope Management** - Learning to define clear deliverables up front, and handle scope changes without setting back the project timeline.
-**Stakeholder Communication** - Communication with our key stakeholders was key to the success of this project. I learned that setting expectations, and collecting feedback from the stakeholders is something that should not be overlooked. We wanted the students to give us direct feedback on exactly what they wanted, because they would be the ones using, and maintaining the site in the future.
-**Delegation and Accountability**
+**What I learned By Being a Project Manager in a Simulated Environment**
+- **Scope Management** - Learning to define clear deliverables up front, and handle scope changes without setting back the project timeline.
+- **Stakeholder Communication** - Communication with our key stakeholders was key to the success of this project. I learned that setting expectations and collecting feedback from the stakeholders is something that - should not be overlooked. We wanted the students to give us direct feedback on exactly what they wanted, because they would be the ones using, and maintaining the site in the future.
+- **Delegation and Accountability** - Assigning tasks across a 4-person team based on individual strengths, and tracking follow-though without micromanaging. 
+- **Agile Workflow in practice** - Running actual sprints in a simulated environment, including check-ins, and adjusting priorities mid-project.
+- **Documentation Discipline** - Keeping a clear record of milestones, scope changes, and approvals, which mattered both for grading and handing the site off cleanly at the end
+- **Client Handoff and Training** - The project didn't end at launch; We trained the DECA club to maintain the site themselves, as well as gave them a presentation on how our group made changes throughout the project duration. This taught me that a deliverable isn't complete until the client can independently use your product.
+
+
 
 **View the Project Site → [Here](https://jessebski.wixsite.com/deca-digital-hub)** &nbsp;|&nbsp;
 **View the Site We Created For the Students → [Here](https://sites.google.com/vt.edu/bhs-deca/home)**
