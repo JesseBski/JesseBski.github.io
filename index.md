@@ -46,7 +46,7 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 **What I learned By Being a Project Manager in a Simulated Environment:**
 - **Scope Management** - Learning to define clear deliverables up front, and handle scope changes without setting back the project timeline.
 - **Stakeholder Communication** - Communication with our key stakeholders was key to the success of this project. I learned that setting expectations and collecting feedback from the stakeholders is something that - should not be overlooked. We wanted the students to give us direct feedback on exactly what they wanted, because they would be the ones using, and maintaining the site in the future.
-- **Delegation and Accountability** - Assigning tasks across a 4-person team based on individual strengths, and tracking follow-though without micromanaging. 
+- **Delegation and Accountability** - Assigning tasks across a 4-person team based on individual strengths, and tracking follow-through without micromanaging. 
 - **Agile Workflow in practice** - Running actual sprints in a simulated environment, including check-ins, and adjusting priorities mid-project.
 - **Documentation Discipline** - Keeping a clear record of milestones, scope changes, and approvals, which mattered both for grading and handing the site off cleanly at the end.
 - **Client Handoff and Training** - The project didn't end at launch; We trained the DECA club to maintain the site themselves, as well as gave them a presentation on how our group made changes throughout the project duration. This taught me that a deliverable isn't complete until the client can independently use your product.
@@ -63,14 +63,14 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 
 **What I did:**
 - Crowdsourced $1,430 through targeted donor outreach and coordinated procurement of tools, materials, and building plans through troop and community networks to complete a community service project.
-- Refurbished furniture and improved the workspace/ storage space at the clothing ministry.
-- Lead a team of 5 volunteers over 3 weeks to renovate the inside of the clothing ministry building; Transported overflowing supply of clothes, furniture and children’s books/ toys to Halo Ministry and Habitat for Humanity.
+- Refurbished furniture and improved the workspace/storage area at the clothing ministry.
+- Led a team of 5 volunteers over 3 weeks to renovate the inside of the clothing ministry building; Transported an overflowing supply of clothes, furniture and children’s books/ toys to Halo Ministry and Habitat for Humanity.
 
 **What I learned:**
 - **Leadership & Delegation** - I learned to delegate tasks instead of doing everything myself. I also learned how to trust my volunteers, which included younger scout members, to complete tasks. I discovered the difference between directing people and actually leading them and motivating volunteers who weren't obligated to be there. I also discovered how to adjust my leadership style on the fly depending on who I was working with. (Adults vs. Younger scouts / First-Time or Experienced Volunteers)
 - **Planning & Problem-Solving** - I realized how much a project can change between planning on paper vs. the actual workday. We had to adapt when materials, weather, or timelines didn't go as planned. I learned how to build in buffer time, so when something did not go as planned, we still had enough time to find another solution and stay within the project timeline.
-- **Communication & Coordination** - Communicating clearly and early with the shelter staff helped us plan the project around meeting their needs, not just assuming what they needed. I also had to learn that it's okay to ask for help and admitting that a task needs more hands or experience than I had.
-- **Working with a Real Organization** - I got first had experience looking at the operational challenges that nonprofit/shelters face day-to-day, which shifted how I think about service. During this project I had to work within someone else's rules and constraints in their own space. This was challenging having to work around the shelter during the day when other patrons were utilizing the spaces we were working in and also made it difficult to pick times where we could complete a task where it required the space to be unoccupied.
+- **Communication & Coordination** - Communicating clearly and early with the shelter staff helped us plan the project around meeting their needs, not just assuming what they needed. I also had to learn that it's okay to ask for help and admit that a task needs more hands or experience than I had.
+- **Working with a Real Organization** - I got first hand experience looking at the operational challenges that nonprofit/shelters face day-to-day, which shifted how I think about service. During this project I had to work within someone else's rules and constraints in their own space. This was challenging having to work around the shelter during the day when other patrons were utilizing the spaces we were working in and also made it difficult to pick times where we could complete a task where it required the space to be unoccupied.
   
 
  
