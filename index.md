@@ -22,6 +22,8 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 > This section is where the real proof-of-work lives. Each project below will follow the same format: what I did, what tools I used, and what I learned. New projects go at the top.
 
 
+
+
 ### 🌐 DECA Digital Hub — Website Project, Project Manager
 **Summary:** As part of a Virginia Tech project management course, we were tasked to work with a non-profit organization, meet their stakeholders, and discuss what our team could do to benefit the organization for years to come. During this class project, we were assigned to document all of our project's deliverables on our own website. My team partnered with a local high school's DECA club — a student-run business/marketing organization — to build them a new website. Their previous site had become difficult to update and had largely fallen out of use, so our goal was to build something the club could actually utilize and maintain long after we handed it off. In the end my team was tasked with creating two separate websites: One to serve as the DECA club's new site, and one to document our project deliverables for our professor.
 
@@ -34,10 +36,12 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 - Checked in with the DECA club students as frequently as possible throughout the build to give them ownership over every design decision so the final site reflected their vision rather than ours.
 - Trained incoming club members on content management and basic site maintenance before transferring full ownership
 
+
 **Tools Used**
 > Wix (Course Documentation Site) & Google Sites (DECA Club Deliverable Site)
 
-**What I learned By Being a Project Manager in a Simulated Environment**
+
+**What I learned By Being a Project Manager in a Simulated Environment:**
 - **Scope Management** - Learning to define clear deliverables up front, and handle scope changes without setting back the project timeline.
 - **Stakeholder Communication** - Communication with our key stakeholders was key to the success of this project. I learned that setting expectations and collecting feedback from the stakeholders is something that - should not be overlooked. We wanted the students to give us direct feedback on exactly what they wanted, because they would be the ones using, and maintaining the site in the future.
 - **Delegation and Accountability** - Assigning tasks across a 4-person team based on individual strengths, and tracking follow-though without micromanaging. 
