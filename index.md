@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# Jesse Baranowski
 
 ## About Me
 I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management and Analytics) and CompTIA Security+ certified, looking to build a career in security operations, GRC, and IT. This site will document the hands-on projects I'm going to use to grow my skills beyond the classroom.
@@ -26,8 +25,8 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 ### 🌐 DECA Digital Hub — Website Project, Project Manager
 In this project I led a team of 4 students in a Virginia Tech Project Management course to design and deliver a fully functional website for a local high school DECA club, using Agile sprints and stakeholder check-ins to manage scope and delivery.
 
-**[View the Project Site →](https://jessebski.wixsite.com/deca-digital-hub)**
-**[View the Site We Created For the Students →](https://sites.google.com/vt.edu/bhs-deca/home)**
+**View the Project Site → [Here](https://jessebski.wixsite.com/deca-digital-hub)**
+**View the Site We Created For the Students → [Here](https://sites.google.com/vt.edu/bhs-deca/home)**
 
 In this project I got experience using Wix.com and Google Sites. 
 ---
