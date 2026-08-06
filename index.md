@@ -4,9 +4,9 @@ layout: default
 # Jesse Baranowski
 
 
-I am a recent graduate from Virginia Tech, with a Bachelor's degree in Cybersecurity Management and Analytics. I have also completed my CompTIA Security+ Certification. I am excited to start my career in a cybersecurity or IT role. 
+I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management and Analytics) and CompTIA Security+ certified, looking to build a career in security operations, GRC, and IT. This site will document the hands-on projects I'm going to use to grow my skills beyond the classroom.
 
-This website will be used to showcase projects that I have been a part of.
+[View My Resume](
 
 
 [Chek Out My LinkedIn Page](https://www.linkedin.com/in/jesse-baranowski-341511264/).
