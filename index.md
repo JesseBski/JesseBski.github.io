@@ -75,7 +75,7 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 - **Communication & Coordination** - Communicating clearly and early with the shelter staff helped us plan the project around meeting their needs, not just assuming what they needed.
 - I also had to learn that it's okay to ask for help and admitting that a task needs more hands or experience than I had.
 - **Working with a Real Organization** - I got first had experience looking at the operational challenges that nonprofit/shelters face day-to-day, which shifted how I think about service.
-- During this project had to work within someone else's rules and constraints in their own space. This was challenging having to work around the shelter during the day when other patrons were utilizing the spaces we were working in 
+- During this project had to work within someone else's rules and constraints in their own space. This was challenging having to work around the shelter during the day when other patrons were utilizing the spaces we were working in, and also picking times where we could complete a task where it required the space to be unoccupied.
   
 
  
