@@ -24,6 +24,13 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 
 ### 🌐 DECA Digital Hub — Website Project, Project Manager
 In this project I led a team of 4 students in a Virginia Tech Project Management course to design and deliver a fully functional website for a local high school DECA club, using Agile sprints and stakeholder check-ins to manage scope and delivery. In this project I got experience using Wix.com and Google Sites, as well as learning Project Management strategies to achieve a common goal on time
+**Tools Used**
+> Wix & Google Sites
+
+**What I learned By Being a Project Manager In a Simulated Environment**
+**Scope Management** - Learning to define clear deliverables up front, and handle scope changes without setting back the project timeline.
+**Stakeholder Communication** - Communication with our key stakeholders was key to the success of this project. I learned that setting expectations, and collecting feedback from the stakeholders is something that should not be overlooked. We wanted the students to give us direct feedback on exactly what they wanted, because they would be the ones using, and maintaining the site in the future.
+**Delegation and Accountability**
 
 **View the Project Site → [Here](https://jessebski.wixsite.com/deca-digital-hub)** &nbsp;|&nbsp;
 **View the Site We Created For the Students → [Here](https://sites.google.com/vt.edu/bhs-deca/home)**
