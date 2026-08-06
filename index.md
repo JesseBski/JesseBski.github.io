@@ -23,23 +23,30 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 
 
 ### 🌐 DECA Digital Hub — Website Project, Project Manager
-In this project I led a team of 4 students in a Virginia Tech Project Management course to design and deliver a fully functional website for a local high school DECA club, using Agile sprints and stakeholder check-ins to manage scope and delivery. In this project I got experience using Wix.com and Google Sites, as well as learning Project Management strategies to achieve a common goal on time
+**Summary:** As part of a Virginia Tech project management course, we were tasked to work with a non-profit organization, meet their stakeholders, and discuss what our team could do to benefit the organization for years to come. During this class project, we were assigned to document all of our project's deliverables on our own website. My team partnered with a local high school's DECA club — a student-run business/marketing organization — to build them a new website. Their previous site had become difficult to update and had largely fallen out of use, so our goal was to build something the club could actually utilize and maintain long after we handed it off. In the end my team was tasked with creating two separate websites: One to serve as the DECA club's new site, and one to document our project deliverables for our professor.
+
+**What I did:**
+- Served as Project Manager for a 4-person team, coordinating the engagement from initial stakeholder outreach through final handoff
+- Met with the DECA club's advisor and student leadership to understand why the old site had stopped being used, and defined a project scope that prioritized ease of maintenance alongside design
+- Ran the project using Agile sprints, with regular check-ins to track progress and adjust priorities as the club's needs became clearer
+- Maintained full project documentation — meeting dates, meeting minutes, scope definition, and milestone tracking — as part of our course's requirement to document the year's work for review
+- Designed and built the new site in Google Sites, choosing a platform simple enough for non-technical student officers to update themselves
+- Checked in with the DECA club students as frequently as possible throughout the build to give them ownership over every design decision so the final site reflected their vision rather than ours.
+- Trained incoming club members on content management and basic site maintenance before transferring full ownership
 
 **Tools Used**
-> Wix & Google Sites
+> Wix (Course Documentation Site) & Google Sites (DECA Club Deliverable Site)
 
 **What I learned By Being a Project Manager in a Simulated Environment**
 - **Scope Management** - Learning to define clear deliverables up front, and handle scope changes without setting back the project timeline.
 - **Stakeholder Communication** - Communication with our key stakeholders was key to the success of this project. I learned that setting expectations and collecting feedback from the stakeholders is something that - should not be overlooked. We wanted the students to give us direct feedback on exactly what they wanted, because they would be the ones using, and maintaining the site in the future.
 - **Delegation and Accountability** - Assigning tasks across a 4-person team based on individual strengths, and tracking follow-though without micromanaging. 
 - **Agile Workflow in practice** - Running actual sprints in a simulated environment, including check-ins, and adjusting priorities mid-project.
-- **Documentation Discipline** - Keeping a clear record of milestones, scope changes, and approvals, which mattered both for grading and handing the site off cleanly at the end
+- **Documentation Discipline** - Keeping a clear record of milestones, scope changes, and approvals, which mattered both for grading and handing the site off cleanly at the end.
 - **Client Handoff and Training** - The project didn't end at launch; We trained the DECA club to maintain the site themselves, as well as gave them a presentation on how our group made changes throughout the project duration. This taught me that a deliverable isn't complete until the client can independently use your product.
 
-
-
-**View the Project Site → [Here](https://jessebski.wixsite.com/deca-digital-hub)** &nbsp;|&nbsp;
-**View the Site We Created For the Students → [Here](https://sites.google.com/vt.edu/bhs-deca/home)**
+**View the Course Documentation Site → [Here](https://jessebski.wixsite.com/deca-digital-hub)** &nbsp;|&nbsp;
+**View the Club Deliverable Site → [Here](https://sites.google.com/vt.edu/bhs-deca/home)**
 
 
 
