@@ -2,13 +2,12 @@
 layout: default
 ---
 # Jesse Baranowski
-## Cybersecurity Analyst 
+
 
 I am a recent graduate from Virginia Tech, with a Bachelor's degree in Cybersecurity Management and Analytics. I have also completed my CompTIA Security+ Certification. I am excited to start my career in a cybersecurity or IT role. 
 
 This website will be used to showcase project that I have been a part of.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Chek Out My LinkedIn Page](https://www.linkedin.com/in/jesse-baranowski-341511264/).
 
