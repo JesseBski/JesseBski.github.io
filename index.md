@@ -21,7 +21,7 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 
 
 # Projects
-> This section is where the real proof-of-work lives. Each project below will follow the same format: what I did, what tools I used, and what I learned. New projects go at the top.
+> This section is where I update what I've been working on! Each project below will follow the same format: what I did, what tools I used, and what I learned. New projects go at the top.
 
 
 
@@ -31,9 +31,9 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 **What I did:**
 - Learned the 3 pillars of SOC (People, Process, Technology) and how they work together to detect and respond to threats.
 - Studied the responsibilities across the entire SOC team structure, also learning how alerts escalate between tiers.
-- Worked through the alert triage process using the "5 Ws framework (Who, What, Where, When, Why) to assess whether an alert is malicious or a false positive.
+- Worked through the alert triage process using the "5 Ws" framework (What, When, Where, Who, Why) to assess whether an alert is malicious or a false positive.
 - Completed a hands-on scenario as a simulated L1 Analyst investigating a SIEM alert flagging a port scanning activity on a host. After reviewing the associated logs, I determined the 5 Ws to reach a conclusion.
-- Confirmed the activity was intended and non-malicious; The scan originated from a known vulnerability assessment tool (NESSUS) that the security team had pre-approved and notified the SOC team in advance.
+- Confirmed the activity was intended and non-malicious; the scan originated from a known vulnerability assessment tool (NESSUS) that the security team had pre-approved and notified the SOC team in advance.
 
 **Tools Used:**
 > SIEM Alert Dashboard
@@ -42,7 +42,7 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 - **Alert Triage in Practice** - I learned how to take a raw SIEM alert and work through the 5 Ws to determine severity and next steps, rather than reacting to every alert as a potential incident.
 - **The Value of Context** - These alerts would look identical to a real port scan without a prior notice from the vulnerability assessment team. This taught me why communication between security teams and change/scan notifications matter just as much as the technical analysis.
 - **SOC Team Structure** - I got a much clearer picture of how work flows in a SOC environment, from L1 triage to L2 investigation to L3 threat hunting/incident response. I also got to see where roles like Security Engineers and Detection Engineers support the rest of the team.
-- **Reporting and Discipline** - This simulation helped me understand why documenting findings clearly with the 5Ws and other evidence matters. A poorly documented false positive is just as risky as a poorly documented real incident, since someone else may need to audit that decision later.
+- **Reporting and Discipline** - This simulation helped me understand why documenting findings clearly with the 5 Ws and other evidence matters. A poorly documented false positive is just as risky as a poorly documented real incident, since someone else may need to audit that decision later.
 
 
 
