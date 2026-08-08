@@ -44,7 +44,7 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 - **SOC Team Structure** - I got a much clearer picture of how work flows in a SOC environment, from L1 triage to L2 investigation to L3 threat hunting/incident response. I also got to see where roles like Security Engineers and Detection Engineers support the rest of the team.
 - **Reporting and Discipline** - This simulation helped me understand why documenting findings clearly with the 5 Ws and other evidence matters. A poorly documented false positive is just as risky as a poorly documented real incident, since someone else may need to audit that decision later.
 
-
+---
 
 ### 🌐 DECA Digital Hub — Website Project, Project Manager
 **Summary:** As part of a Virginia Tech project management course, we were tasked to work with a non-profit organization, meet their stakeholders, and discuss what our team could do to benefit the organization for years to come. During this class project, we were assigned to document all of our project's deliverables on our own website. My team partnered with a local high school's DECA club — a student-run business/marketing organization — to build them a new website. Their previous site had become difficult to update and had largely fallen out of use, so our goal was to build something the club could actually utilize and maintain long after we handed it off. In the end my team was tasked with creating two separate websites: One to serve as the DECA club's new site, and one to document our project deliverables for our professor.
