@@ -16,7 +16,7 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 **Technical:** Wireshark, Nmap, Linux (Permissions, Ownership, Networking Tools), Python, SQL, Java, VBA, Microsoft Office
 
 **Certifications:** 
-- CompTIA Security+ (SYO-701) [View My Certificate](CompTIA_Security+_ce_certificate.pdf)
+- CompTIA Security+ (SYO-701) &nbsp;|&nbsp; [View My Certificate](CompTIA_Security+_ce_certificate.pdf)
 - Mastercard Cybersecurity Virtual Experience Program (Forage)
 
 
