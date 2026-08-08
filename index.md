@@ -25,6 +25,26 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 
 
 
+### 🛡️ SOC Fundamentals — TryHackMe, SOC Level 1 Analyst (Simulated)
+**Summary:** I completed TryHackMe's SOC Fundamentals room, which introduces the 3 pillars of a Security Operations Center. The room covers how SOC teams detect and respond to threats, the responsibilities across analyst tiers L1-L3, and how tools like SIEM, EDR, and firewalls work their way into daily operations. The simulation put me in the role of an L1 Analyst investigating a live alert.
+
+**What I did:**
+- Learned the 3 pillars of SOC (People, Process, Technology) and how they work together to detect and respond to threats.
+- Studied the responsibilities across the entire SOC team structure, also learning how alerts escalate between tiers.
+- Worked through the alert triage process using the "5 Ws framework (Who, What, Where, When, Why) to assess whether an alert is malicious or a false positive.
+- Completed a hands-on scenario as a simulated L1 Analyst investigating a SIEM alert flagging a port scanning activity on a host. After reviewing the associated logs, I determined the 5 Ws to reach a conclusion.
+- Confirmed the activity was intended and non-malicious; The scan originated from a known vulnerability assessment tool (NESSUS) that the security team had pre-approved and notified the SOC team in advance.
+
+**Tools Used:**
+> SIEM Alert Dashboard
+
+**What I learned:**
+- **Alert Triage in Practice** - I learned how to take a raw SIEM alert and work through the 5 Ws to determine severity and next steps, rather than reacting to every alert as a potential incident.
+- **The Value of Context** - These alerts would look identical to a real port scan without a prior notice from the vulnerability assessment team. This taught me why communication between security teams and change/scan notifications matter just as much as the technical analysis.
+- **SOC Team Structure** - I got a much clearer picture of how work flows in a SOC environment, from L1 triage to L2 investigation to L3 threat hunting/incident response. I also got to see where roles like Security Engineers and Detection Engineers support the rest of the team.
+- **Reporting and Discipline** - This simulation helped me understand why documenting findings clearly with the 5Ws and other evidence matters. A poorly documented false positive is just as risky as a poorly documented real incident, since someone else may need to audit that decision later.
+
+
 
 ### 🌐 DECA Digital Hub — Website Project, Project Manager
 **Summary:** As part of a Virginia Tech project management course, we were tasked to work with a non-profit organization, meet their stakeholders, and discuss what our team could do to benefit the organization for years to come. During this class project, we were assigned to document all of our project's deliverables on our own website. My team partnered with a local high school's DECA club — a student-run business/marketing organization — to build them a new website. Their previous site had become difficult to update and had largely fallen out of use, so our goal was to build something the club could actually utilize and maintain long after we handed it off. In the end my team was tasked with creating two separate websites: One to serve as the DECA club's new site, and one to document our project deliverables for our professor.
@@ -39,7 +59,7 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 - Trained incoming club members on content management and basic site maintenance before transferring full ownership
 
 
-**Tools Used**
+**Tools Used:**
 > Wix (Course Documentation Site) & Google Sites (DECA Club Deliverable Site)
 
 
@@ -70,7 +90,7 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 - **Leadership & Delegation** - I learned to delegate tasks instead of doing everything myself. I also learned how to trust my volunteers, which included younger scout members, to complete tasks. I discovered the difference between directing people and actually leading them and motivating volunteers who weren't obligated to be there. I also discovered how to adjust my leadership style on the fly depending on who I was working with. (Adults vs. Younger scouts / First-Time or Experienced Volunteers)
 - **Planning & Problem-Solving** - I realized how much a project can change between planning on paper vs. the actual workday. We had to adapt when materials, weather, or timelines didn't go as planned. I learned how to build in buffer time, so when something did not go as planned, we still had enough time to find another solution and stay within the project timeline.
 - **Communication & Coordination** - Communicating clearly and early with the shelter staff helped us plan the project around meeting their needs, not just assuming what they needed. I also had to learn that it's okay to ask for help and admit that a task needs more hands or experience than I had.
-- **Working with a Real Organization** - I got first hand experience looking at the operational challenges that nonprofit/shelters face day-to-day, which shifted how I think about service. During this project I had to work within someone else's rules and constraints in their own space. This was challenging having to work around the shelter during the day when other patrons were utilizing the spaces we were working in and also made it difficult to pick times where we could complete a task where it required the space to be unoccupied.
+- **Working with a Real Organization** - I got firsthand experience looking at the operational challenges that nonprofit/shelters face day-to-day, which shifted how I think about service. During this project I had to work within someone else's rules and constraints in their own space. This was challenging having to work around the shelter during the day when other patrons were utilizing the spaces we were working in and also made it difficult to pick times where we could complete a task where it required the space to be unoccupied.
   
 
  
