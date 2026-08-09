@@ -19,3 +19,8 @@ title: TryHackMe SOC Level 1 Pathway
   - Reviewed specialized Blue Team career paths, including Digital Forensics, Threat Intelligence, AppSec Engineering, and DevSecOps.
   - Compared internal SOC teams versus Managed Security Service Providers. (MSSP)
 
+**Tools/Concepts I Used:**
+> Security organization hierarchy models, SOC tier structure, CIRT frameworks, real-world CIRT examples. (JPCERT, Mandiant, AWS CIRT)
+
+**What I Learned**
+- A SOC is typically layered into L1 (Triage), L2 (Deeper Investigation
