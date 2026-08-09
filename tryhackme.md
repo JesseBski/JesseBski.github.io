@@ -27,4 +27,5 @@ title: TryHackMe SOC Level 1 Pathway
 > Security organization hierarchy models, SOC tier structure, CIRT frameworks, real-world CIRT examples. (JPCERT, Mandiant, AWS CIRT)
 
 **What I Learned**
-- A SOC is typically layered into L1 (Triage), L2 (Deeper Investigation
+- A SOC is typically layered into L1 (Triage), L2 (Deeper Investigation), Engineers (Tooling/Configuration), and a Manager overseeing the team. This helped me see triage work as the entry point into a much broader technical career track.
+- When an incident exceeds SOC capacity, it escalates to a CIRT, which requires broader knowledge and the ability to respond without full reliance on tools like SIEM or EDR.
