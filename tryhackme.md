@@ -29,3 +29,6 @@ title: TryHackMe SOC Level 1 Pathway
 **What I Learned**
 - A SOC is typically layered into L1 (Triage), L2 (Deeper Investigation), Engineers (Tooling/Configuration), and a Manager overseeing the team. This helped me see triage work as the entry point into a much broader technical career track.
 - When an incident exceeds SOC capacity, it escalates to a CIRT, which requires broader knowledge and the ability to respond without full reliance on tools like SIEM or EDR.
+- Career advancement as in L1 analyst depends on building core SOC skills, staying engaged with CTFs and current threat news, and eventually specializing or advancing into senior/lead roles.
+- Two habits I want to apply directly in my own analyst work: **learning from every alert** (understanding why a detection rule triggered, not just closing the ticket) and **thinking like an attacker** — asking "why would they do this" before diving into "how did they do this" during triage.
+- Understanding the difference between an internal SOC and an MSSP helps me evaluate job postings more critically and know what kind of environment I'm applying into.
