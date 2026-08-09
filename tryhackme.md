@@ -6,6 +6,10 @@ title: TryHackMe SOC Level 1 Pathway
 # Welcome to my TryHackMe SOC 1 Pathway
 > This page documents my progress through TryHackMe's SOC Level 1 learning path. Each module below follows the same format as my main projects section: What I did, What Tools/Concepts I used, and What I learned.
 
+---
+
+[← Back to Home]([))
+
 --- 
 
 ### 📘 SOC Role in Blue Team
