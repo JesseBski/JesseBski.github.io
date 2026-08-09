@@ -15,5 +15,7 @@ title: TryHackMe SOC Level 1 Pathway
 **What I did:**
   - Mapped the security hierarchy of a typical organization from executives, down to technical analysts.
   - Distinguished roles between the Red Team, Blue Team, and GRC functions within a security organization.
-  - 
+  - Learned how Cyber Incident Response Teams (CIRT) escalate beyond SOC capabilities during major incident.
+  - Reviewed specialized Blue Team career paths, including Digital Forensics, Threat Intelligence, AppSec Engineering, and DevSecOps.
+  - Compared internal SOC teams versus Managed Security Service Providers. (MSSP)
 
