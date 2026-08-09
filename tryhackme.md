@@ -8,7 +8,7 @@ title: TryHackMe SOC Level 1 Pathway
 
 ---
 
-[← Back to Home]([))
+[← Back to Home](index.md)
 
 --- 
 
