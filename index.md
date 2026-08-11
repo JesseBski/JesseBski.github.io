@@ -5,7 +5,7 @@ layout: default
 ## About Me
 I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management and Analytics) and CompTIA Security+ certified, looking to build a career in security operations, GRC, and IT. This site will document the hands-on projects I'm going to use to grow my skills beyond the classroom.
 
-[View My Resume](Resume_Jesse_Baranowski_SOC_Analyst_2026-08.pdf) &nbsp;|&nbsp; [Connect with me on LinkedIn](https://www.linkedin.com/in/jesse-baranowski-341511264/) 
+[View My Resume](Jesse_Baranowski_Resume.pdf) &nbsp;|&nbsp; [Connect with me on LinkedIn](https://www.linkedin.com/in/jesse-baranowski-341511264/) 
 
 
 
