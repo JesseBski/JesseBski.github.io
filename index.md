@@ -24,7 +24,7 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 > This section is where I update what I've been working on! Each project below will follow the same format: what I did, what tools I used, and what I learned. New projects go at the top.
 
 # TryHackMe SOC 1 Pathway Certification
-- Check Out What I've Been Doing With TryHackMe → [Here](tryhackme.md)
+- Check Out My Progress in TryHackMe → [Here](tryhackme.md)
 
 ---
 
