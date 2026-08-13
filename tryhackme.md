@@ -12,23 +12,24 @@ title: TryHackMe SOC Level 1 Pathway
 
 --- 
 
-### 📘 SOC Role in Blue Team
 
-**Summary:** This module focused on where a SOC fits within a broad company security structure, including the organization's hierarchy, the teams that surrounds a SOC analyst, and how a SOC career progresses over time.
+### 📘 Blue Team Introduction
 
-**What I did:**
-  - Mapped the security hierarchy of a typical organization from executives, down to technical analysts.
-  - Distinguished roles between the Red Team, Blue Team, and GRC functions within a security organization.
-  - Learned how Cyber Incident Response Teams (CIRT) escalate beyond SOC capabilities during major incident.
-  - Reviewed specialized Blue Team career paths, including Digital Forensics, Threat Intelligence, AppSec Engineering, and DevSecOps.
-  - Compared internal SOC teams versus Managed Security Service Providers. (MSSP)
+**Summary:** This covers the first stretch of the pathway, including "Junior Security Analyst Intro", "SOC Role in Blue Team", "Humans as Attack Vectors", and "Systems as Attack Vectors". These rooms covered the fundamentals before any alert triage: who's actually on a SOC team, how that team fits into a larger security organization, and the two broad categories of things a SOC defends - humans and systems. Each room was paired with concepts, and a short simulated scenario to apply them.
+
+**What I did:** 
+- **Junior Security Analyst Intro** - Learned the core SOC team roles, like Senior Analyst, SOC Engineer, SOC Manager, and Incident Responder, and what a day-to-day workload looks like. After reviewing SOC roles and daily tasks, I completed a simulated task where I inspected a SIEM dashboard, copying malicious IP's from a critical alert, and escalating the ticket to a senior analyst.
+- **SOC Role in Blue Team** - Mapped where SOC sits inside a company's broader security structure and how Blue Teams (defense) relate to Red Teams (offense) and GRC (compliance). Here I broke down SOC's internal tiers (L1/L2/Engineers/Manager), the Cyber Incident Response Team (CIRT), and specialized roles like Threat Intel and AppSec. I then finished a final challenge acting as a CISO of a simulated company, assigning the right responder to seven simultaneous incidents.
+- **Humans as Attack Vectors** - Studied why humans are the most targeted part of an attack surface and how social engineering works by exploiting trust and emotion rather than technical flaws. Humans can easily fail to detect phishing, malware downloads, and deepfake impersonation. At the end of this room, I practiced a simulation as a SOC analyst, where I opened a security dashboard and reviewed an "Employees at Risk" panel, and updated a company's Security Policy tab.
+- **Systems as Attack Vectors** - Covered how systems get breached - human-led entry points like weak passwords, inserting malicious USB drives, unpatched vulnerabilities (Zero-Day and CVE/Patch cycle), supply chain compromise, and misconfigurations. I practiced triaging a "Systems at Risk" panel and chose the correct fixes from a Remediation Plan tab in a simulated dashboard.
 
 **Tools/Concepts I Used:**
-> Security organization hierarchy models, SOC tier structure, CIRT frameworks, real-world CIRT examples. (JPCERT, Mandiant, AWS CIRT)
+> Simulated SIEM dashboard, Simulated Security Dashboard, Simulated Remediation Console.
 
-**What I Learned**
-- A SOC is typically layered into L1 (Triage), L2 (Deeper Investigation), Engineers (Tooling/Configuration), and a Manager overseeing the team. This helped me see triage work as the entry point into a much broader technical career track.
-- When an incident exceeds SOC capacity, it escalates to a CIRT, which requires broader knowledge and the ability to respond without full reliance on tools like SIEM or EDR.
-- Career advancement as in L1 analyst depends on building core SOC skills, staying engaged with CTFs and current threat news, and eventually specializing or advancing into senior/lead roles.
-- Two habits I want to apply directly in my own analyst work: **learning from every alert** (understanding why a detection rule triggered, not just closing the ticket) and **thinking like an attacker** — asking "why would they do this" before diving into "how did they do this" during triage.
-- Understanding the difference between an internal SOC and an MSSP helps me evaluate job postings more critically and know what kind of environment I'm applying into.
+**What I Learned:**
+- The SOC team structure and escalation path - where an L1 analyst's job stops and a Senior Analyst's begins.
+- How SOC fits into a company's overall security org, alongside Red Team and GRC, under a CISO.
+- The difference between an internal SOC and an MSSP, and the range of specialized Blue Team roles beyond SOC (CIRT, Digital Forensics, Threat Intel, AppSec).
+- Why humans are the most exploited part of an attack surface, and the difference between mitigating an attack and detecting one.
+- How systems get compromised beyond a single hacker - weak configuration and supply chain risks are just as common as direct exploits.
+- The standard response pattern to a disclosed vulnerability: patch when available, restrict access and apply vendor mitigations while you wait.
