@@ -28,32 +28,47 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 
 ---
 
-
 ### 🛡️ SOC Fundamentals — TryHackMe, SOC Level 1 Analyst (Simulated)
+
 **Summary:** I completed TryHackMe's SOC Fundamentals room, which introduces the 3 pillars of a Security Operations Center. The room covers how SOC teams detect and respond to threats, the responsibilities across analyst tiers L1-L3, and how tools like SIEM, EDR, and firewalls work their way into daily operations. The simulation put me in the role of an L1 Analyst investigating a live alert.
 
-**What I did:**
+<details>
+<summary><strong>What I did</strong></summary>
+
 - Learned the 3 pillars of SOC (People, Process, Technology) and how they work together to detect and respond to threats.
 - Studied the responsibilities across the entire SOC team structure, also learning how alerts escalate between tiers.
 - Worked through the alert triage process using the "5 Ws" framework (What, When, Where, Who, Why) to assess whether an alert is malicious or a false positive.
 - Completed a hands-on scenario as a simulated L1 Analyst investigating a SIEM alert flagging a port scanning activity on a host. After reviewing the associated logs, I determined the 5 Ws to reach a conclusion.
 - Confirmed the activity was intended and non-malicious; the scan originated from a known vulnerability assessment tool (NESSUS) that the security team had pre-approved and notified the SOC team in advance.
 
-**Tools Used:**
-> SIEM Alert Dashboard
+</details>
 
-**What I learned:**
+<details>
+<summary><strong>Tools Used</strong></summary>
+
+SIEM Alert Dashboard
+
+</details>
+
+<details>
+<summary><strong>What I learned</strong></summary>
+
 - **Alert Triage in Practice** - I learned how to take a raw SIEM alert and work through the 5 Ws to determine severity and next steps, rather than reacting to every alert as a potential incident.
 - **The Value of Context** - These alerts would look identical to a real port scan without a prior notice from the vulnerability assessment team. This taught me why communication between security teams and change/scan notifications matter just as much as the technical analysis.
 - **SOC Team Structure** - I got a much clearer picture of how work flows in a SOC environment, from L1 triage to L2 investigation to L3 threat hunting/incident response. I also got to see where roles like Security Engineers and Detection Engineers support the rest of the team.
 - **Reporting and Discipline** - This simulation helped me understand why documenting findings clearly with the 5 Ws and other evidence matters. A poorly documented false positive is just as risky as a poorly documented real incident, since someone else may need to audit that decision later.
 
+</details>
+
 ---
 
 ### 🌐 DECA Digital Hub — Website Project, Project Manager
+
 **Summary:** As part of a Virginia Tech project management course, we were tasked to work with a non-profit organization, meet their stakeholders, and discuss what our team could do to benefit the organization for years to come. During this class project, we were assigned to document all of our project's deliverables on our own website. My team partnered with a local high school's DECA club — a student-run business/marketing organization — to build them a new website. Their previous site had become difficult to update and had largely fallen out of use, so our goal was to build something the club could actually utilize and maintain long after we handed it off. In the end my team was tasked with creating two separate websites: One to serve as the DECA club's new site, and one to document our project deliverables for our professor.
 
-**What I did:**
+<details>
+<summary><strong>What I did</strong></summary>
+
 - Served as Project Manager for a 4-person team, coordinating the engagement from initial stakeholder outreach through final handoff
 - Met with the DECA club's advisor and student leadership to understand why the old site had stopped being used, and defined a project scope that prioritized ease of maintenance alongside design
 - Ran the project using Agile sprints, with regular check-ins to track progress and adjust priorities as the club's needs became clearer
@@ -62,24 +77,30 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 - Checked in with the DECA club students as frequently as possible throughout the build to give them ownership over every design decision so the final site reflected their vision rather than ours.
 - Trained incoming club members on content management and basic site maintenance before transferring full ownership
 
+</details>
 
-**Tools Used:**
-> Wix (Course Documentation Site) & Google Sites (DECA Club Deliverable Site)
+<details>
+<summary><strong>Tools Used</strong></summary>
 
+Wix (Course Documentation Site) & Google Sites (DECA Club Deliverable Site)
 
-**What I learned By Being a Project Manager in a Simulated Environment:**
+</details>
+
+<details>
+<summary><strong>What I learned by being a Project Manager in a simulated environment</strong></summary>
+
 - **Scope Management** - Learning to define clear deliverables up front, and handle scope changes without setting back the project timeline.
-- **Stakeholder Communication** - Communication with our key stakeholders was key to the success of this project. I learned that setting expectations and collecting feedback from the stakeholders is something that - should not be overlooked. We wanted the students to give us direct feedback on exactly what they wanted, because they would be the ones using, and maintaining the site in the future.
-- **Delegation and Accountability** - Assigning tasks across a 4-person team based on individual strengths, and tracking follow-through without micromanaging. 
+- **Stakeholder Communication** - Communication with our key stakeholders was key to the success of this project. I learned that setting expectations and collecting feedback from the stakeholders is something that should not be overlooked. We wanted the students to give us direct feedback on exactly what they wanted, because they would be the ones using, and maintaining the site in the future.
+- **Delegation and Accountability** - Assigning tasks across a 4-person team based on individual strengths, and tracking follow-through without micromanaging.
 - **Agile Workflow in practice** - Running actual sprints in a simulated environment, including check-ins, and adjusting priorities mid-project.
 - **Documentation Discipline** - Keeping a clear record of milestones, scope changes, and approvals, which mattered both for grading and handing the site off cleanly at the end.
 - **Client Handoff and Training** - The project didn't end at launch; We trained the DECA club to maintain the site themselves, as well as gave them a presentation on how our group made changes throughout the project duration. This taught me that a deliverable isn't complete until the client can independently use your product.
 
-**View the Course Documentation Site → [Here](https://jessebski.wixsite.com/deca-digital-hub)** &nbsp;|&nbsp;
-**View the Club Deliverable Site → [Here](https://sites.google.com/vt.edu/bhs-deca/home)**
+</details>
 
+**View the Course Documentation Site → [Here](https://jessebski.wixsite.com/deca-digital-hub)** | **View the Club Deliverable Site → [Here](https://sites.google.com/vt.edu/bhs-deca/home)**
 
-
+---
 
 ### 🏕️ Eagle Scout Project — Troop 151, Project Lead
 
