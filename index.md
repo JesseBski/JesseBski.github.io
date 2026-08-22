@@ -24,7 +24,8 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 > This section is where I update what I've been working on! Each project below will follow the same format: what I did, what tools I used, and what I learned. New projects go at the top. Click the drop-down menus to learn more!
 
 ## TryHackMe SOC 1 Pathway Certification
-- Check Out My Progress in TryHackMe → [Here](tryhackme.md)
+- **Summary:** I'm working through TryHackMe's SOC Level 1 Pathway, a hands-on learning track covering SOC team structure, alert triage, phishing investigation, and real-time simulated SOC scenarios - I'm documenting my progress as I go. 
+View My Full TryHackMe Progress Page → [Here](tryhackme.md)
 
 ---
 
