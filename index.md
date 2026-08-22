@@ -17,7 +17,7 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 
 **Certifications:** 
 - CompTIA Security+ (SYO-701) &nbsp;|&nbsp; [View My Certificate](CompTIA_Security+_ce_certificate.pdf)
-- Mastercard Cybersecurity Virtual Experience Program (Forage)
+-  Mastercard Cybersecurity Virtual Experience Program (Forage)
 
 
 # Projects
