@@ -33,7 +33,7 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 
 **Summary:** I completed TryHackMe's SOC Fundamentals room, which introduces the 3 pillars of a Security Operations Center. The room covers how SOC teams detect and respond to threats, the responsibilities across analyst tiers L1-L3, and how tools like SIEM, EDR, and firewalls work their way into daily operations. The simulation put me in the role of an L1 Analyst investigating live alerts.
 
-<details>
+<details markdown="1">
 <summary><strong>What I did</strong></summary>
 
 - Learned the 3 pillars of SOC (People, Process, Technology) and how they work together to detect and respond to threats.
@@ -44,14 +44,14 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Tools Used</strong></summary>
 
 SIEM Alert Dashboard
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>What I learned</strong></summary>
 
 - **Alert Triage in Practice** - I learned how to take a raw SIEM alert and work through the 5 Ws to determine severity and next steps, rather than reacting to every alert as a potential incident.
@@ -63,11 +63,11 @@ SIEM Alert Dashboard
 
 ---
 
-### 🌐 DECA Digital Hub — Website Project, Project Manager
+## 🌐 DECA Digital Hub — Website Project, Project Manager
 
 **Summary:** As part of a Virginia Tech project management course, we were tasked to work with a non-profit organization, meet their stakeholders, and discuss what our team could do to benefit the organization for years to come. During this class project, we were assigned to document all of our project's deliverables on our own website. My team partnered with a local high school's DECA club — a student-run business/marketing organization — to build them a new website. In the end my team was tasked with creating two separate websites: One to serve as the DECA club's new site, and one to document our project deliverables for our professor.
 
-<details>
+<details markdown="1">
 <summary><strong>What I did</strong></summary>
 
 - Served as Project Manager for a 4-person team, coordinating the engagement from initial stakeholder outreach through final handoff
@@ -80,14 +80,14 @@ SIEM Alert Dashboard
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Tools Used</strong></summary>
 
 Wix (Course Documentation Site) & Google Sites (DECA Club Deliverable Site)
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>What I learned</strong></summary>
 
 - **Scope Management** - Learning to define clear deliverables up front, and handle scope changes without setting back the project timeline.
@@ -103,11 +103,11 @@ Wix (Course Documentation Site) & Google Sites (DECA Club Deliverable Site)
 
 ---
 
-### 🏕️ Eagle Scout Project — Troop 151, Project Lead
+## 🏕️ Eagle Scout Project — Troop 151, Project Lead
 
 **Summary:** For my Eagle Scout Leadership Service Project, I organized and led a team of volunteers to refurbish the clothing ministry at The Christian Shelter in Salisbury MD, improving how donated clothing is sorted, stored, and distributed to residents.
 
-<details>
+<details markdown="1">
 <summary><strong>What I did</strong></summary>
 
 - Crowdsourced $1,430 through targeted donor outreach and coordinated procurement of tools, materials, and building plans through troop and community networks to complete a community service project.
@@ -116,7 +116,7 @@ Wix (Course Documentation Site) & Google Sites (DECA Club Deliverable Site)
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>What I learned</strong></summary>
 
 - **Leadership & Delegation** - I learned to delegate tasks instead of doing everything myself. I also learned how to trust my volunteers, which included younger scout members, to complete tasks. I discovered the difference between directing people and actually leading them and motivating volunteers who weren't obligated to be there. I also discovered how to adjust my leadership style on the fly depending on who I was working with. (Adults vs. Younger scouts / First-Time or Experienced Volunteers)
