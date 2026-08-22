@@ -29,7 +29,7 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 
 ---
 
-## 🛡️ SOC Fundamentals — TryHackMe, SOC Level 1 Analyst (Simulated)
+## 🛡️ SOC Fundamentals — TryHackMe, SOC Level 1 Analyst
 
 **Summary:** I completed TryHackMe's SOC Fundamentals room, which introduces the 3 pillars of a Security Operations Center. The room covers how SOC teams detect and respond to threats, the responsibilities across analyst tiers L1-L3, and how tools like SIEM, EDR, and firewalls work their way into daily operations. The simulation put me in the role of an L1 Analyst investigating live alerts.
 
