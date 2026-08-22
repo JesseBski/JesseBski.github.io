@@ -80,22 +80,28 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 
 
 
----
 
 ### 🏕️ Eagle Scout Project — Troop 151, Project Lead
+
 **Summary:** For my Eagle Scout Leadership Service Project, I organized and led a team of volunteers to refurbish the clothing ministry at The Christian Shelter in Salisbury MD, improving how donated clothing is sorted, stored, and distributed to residents.
 
-**What I did:**
+<details>
+<summary><strong>What I did</strong></summary>
+
 - Crowdsourced $1,430 through targeted donor outreach and coordinated procurement of tools, materials, and building plans through troop and community networks to complete a community service project.
 - Refurbished furniture and improved the workspace/storage area at the clothing ministry.
-- Led a team of 5 volunteers over 3 weeks to renovate the inside of the clothing ministry building; Transported an overflowing supply of clothes, furniture and children’s books/ toys to Halo Ministry and Habitat for Humanity.
+- Led a team of 5 volunteers over 3 weeks to renovate the inside of the clothing ministry building; Transported an overflowing supply of clothes, furniture and children's books/toys to Halo Ministry and Habitat for Humanity.
 
-**What I learned:**
+</details>
+
+<details>
+<summary><strong>What I learned</strong></summary>
+
 - **Leadership & Delegation** - I learned to delegate tasks instead of doing everything myself. I also learned how to trust my volunteers, which included younger scout members, to complete tasks. I discovered the difference between directing people and actually leading them and motivating volunteers who weren't obligated to be there. I also discovered how to adjust my leadership style on the fly depending on who I was working with. (Adults vs. Younger scouts / First-Time or Experienced Volunteers)
 - **Planning & Problem-Solving** - I realized how much a project can change between planning on paper vs. the actual workday. We had to adapt when materials, weather, or timelines didn't go as planned. I learned how to build in buffer time, so when something did not go as planned, we still had enough time to find another solution and stay within the project timeline.
 - **Communication & Coordination** - Communicating clearly and early with the shelter staff helped us plan the project around meeting their needs, not just assuming what they needed. I also had to learn that it's okay to ask for help and admit that a task needs more hands or experience than I had.
 - **Working with a Real Organization** - I got firsthand experience looking at the operational challenges that nonprofit/shelters face day-to-day, which shifted how I think about service. During this project I had to work within someone else's rules and constraints in their own space. This was challenging having to work around the shelter during the day when other patrons were utilizing the spaces we were working in and also made it difficult to pick times where we could complete a task where it required the space to be unoccupied.
-  
 
- 
+</details>
+
 ---
