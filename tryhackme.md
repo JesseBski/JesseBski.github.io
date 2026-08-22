@@ -13,11 +13,11 @@ title: TryHackMe SOC Level 1 Pathway
 
 ---
 
-### 📘 Blue Team Introduction
+## 📘 Blue Team Introduction
 
 **Summary:** This covers the first stretch of the pathway, including "Junior Security Analyst Intro", "SOC Role in Blue Team", "Humans as Attack Vectors", and "Systems as Attack Vectors". These rooms covered the fundamentals before any alert triage: who's actually on a SOC team, how that team fits into a larger security organization, and the two broad categories of things a SOC defends - humans and systems. Each room was paired with concepts, and a short simulated scenario to apply them.
 
-<details>
+<details markdown="1">
 <summary><strong>What I did</strong></summary>
 
 - **Junior Security Analyst Intro** - Learned the core SOC team roles, like Senior Analyst, SOC Engineer, SOC Manager, and Incident Responder, and what a day-to-day workload looks like. After reviewing SOC roles and daily tasks, I completed a simulated task where I inspected a SIEM dashboard, copying malicious IP's from a critical alert, and escalating the ticket to a senior analyst.
@@ -27,14 +27,14 @@ title: TryHackMe SOC Level 1 Pathway
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Tools/Concepts I Used</strong></summary>
 
 Simulated SIEM dashboard, Simulated Security Dashboard, Simulated Remediation Console.
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>What I Learned</strong></summary>
 
 - The SOC team structure and escalation path - where an L1 analyst's job stops and a Senior Analyst's begins.
@@ -48,11 +48,11 @@ Simulated SIEM dashboard, Simulated Security Dashboard, Simulated Remediation Co
 
 ---
 
-### 🔍 SOC Alert Triage & Investigation
+## 🔍 SOC Alert Triage & Investigation
 
 **Summary:** This section covers the next stretch of the pathway, including "SOC L1 Alert Triage", "SOC L1 Alert Reporting", "SOC Workbooks and Lookups", "SOC Metrics and Objectives", and "Introduction to Phishing". These rooms moved from theory into the actual day-to-day work of an L1 analyst: picking up and investigating an alert, deciding whether to escalate it, using the right lookups and workbooks to get there faster, measuring how well a SOC team is performing, and finally applying all of it in a real-time simulated phishing scenario.
 
-<details>
+<details markdown="1">
 <summary><strong>What I did</strong></summary>
 
 - **SOC L1 Alert Triage** - Learned the structure of an alert (time, name, severity, status, verdict, assignee, description, fields) and the SOC platforms that manage them (SIEM like Splunk ES/Elastic, EDR/NDR like MS Defender/CrowdStrike, SOAR, and ITSM tools like Jira/TheHive). Practiced the full triage workflow - filter unclaimed alerts, sort by severity then age, assign to myself, move to "In Progress," investigate using a workbook (or manually if none exists), reach a verdict, and either escalate or close with a comment. Closed out the room by triaging 3 alerts in a simulated SIEM, weighing severity to decide investigation order, and documenting my verdict on each.
@@ -63,14 +63,14 @@ Simulated SIEM dashboard, Simulated Security Dashboard, Simulated Remediation Co
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Tools/Concepts I Used</strong></summary>
 
 Simulated SIEM dashboard, URL/IP Checker, Splunk logs, identity & asset inventory lookups, network diagrams, SOC workbooks, alert reporting (5 W's), SLA benchmarks (MTTD/MTTA/MTTR), real-time SOC Simulator.
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>What I Learned</strong></summary>
 
 - How to prioritize an alert queue correctly - unclaimed alerts first, then by severity, then by age - and why that ordering actually reduces attacker dwell time.
