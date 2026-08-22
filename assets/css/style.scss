@@ -1,0 +1,79 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ============================================
+   Custom styles: collapsible project sections
+   ============================================ */
+
+details {
+  border: 1px solid #4a4a4a;
+  border-radius: 6px;
+  padding: 0.7em 1em;
+  margin: 0.9em 0;
+  background-color: #2a2a2a;
+  transition: background-color 0.2s ease;
+}
+
+details:hover {
+  background-color: #303030;
+}
+
+details summary {
+  cursor: pointer;
+  font-weight: bold;
+  color: #6cb2eb;
+  list-style: none;
+  padding: 0.2em 0;
+  outline: none;
+}
+
+/* Remove default browser triangle marker */
+details summary::-webkit-details-marker {
+  display: none;
+}
+details summary::marker {
+  content: "";
+}
+
+/* Custom arrow indicator that rotates on open */
+details summary::before {
+  content: "▶";
+  display: inline-block;
+  margin-right: 0.5em;
+  font-size: 0.75em;
+  color: #6cb2eb;
+  transition: transform 0.2s ease;
+}
+
+details[open] summary::before {
+  transform: rotate(90deg);
+}
+
+/* Hover feedback on the summary line */
+details summary:hover {
+  color: #9ccfff;
+}
+details summary:hover::before {
+  color: #9ccfff;
+}
+
+/* Breathing room for content once expanded */
+details[open] summary {
+  margin-bottom: 0.6em;
+  border-bottom: 1px solid #444;
+  padding-bottom: 0.6em;
+}
+
+details > *:not(summary) {
+  margin-top: 0.4em;
+}
+
+details ul {
+  padding-left: 1.3em;
+}
+
+details li {
+  margin-bottom: 0.4em;
+}
