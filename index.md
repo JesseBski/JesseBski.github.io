@@ -87,7 +87,7 @@ Wix (Course Documentation Site) & Google Sites (DECA Club Deliverable Site)
 </details>
 
 <details>
-<summary><strong>What I learned by being a Project Manager in a simulated environment</strong></summary>
+<summary><strong>What I learned</strong></summary>
 
 - **Scope Management** - Learning to define clear deliverables up front, and handle scope changes without setting back the project timeline.
 - **Stakeholder Communication** - Communication with our key stakeholders was key to the success of this project. I learned that setting expectations and collecting feedback from the stakeholders is something that should not be overlooked. We wanted the students to give us direct feedback on exactly what they wanted, because they would be the ones using, and maintaining the site in the future.
