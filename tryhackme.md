@@ -11,7 +11,13 @@ title: TryHackMe SOC Level 1 Pathway
 
 [← Back to Home](index.md)
 
+
+
+
 ---
+
+
+
 
 ## 📘 Blue Team Introduction
 
@@ -46,7 +52,13 @@ Simulated SIEM dashboard, Simulated Security Dashboard, Simulated Remediation Co
 
 </details>
 
+
+
+
 ---
+
+
+
 
 ## 🔍 SOC Alert Triage & Investigation
 
@@ -84,4 +96,53 @@ Simulated SIEM dashboard, URL/IP Checker, Splunk logs, identity & asset inventor
 
 </details>
 
+
+
+
 ---
+
+
+
+
+## 🛠️ Core SOC Solutions
+
+**Summary:** This section covers the tools a SOC analyst actually works in day-to-day: "Introduction to EDR", "Introduction to SIEM", "Splunk: The Basics", "Elastic Stack: The Basics", and "Introduction to SOAR". These rooms moved from detection at the endpoint level, to centralized log correlation across a network, to two real SIEM platforms, and finally to how SOAR ties all these tools together into automated workflows.
+
+<details markdown="1"> 
+<summary><strong>What I did</strong></summary>
+  
+- **Introduction to EDR** - Learned how Endpoint Detection and Response differs from traditional antivirus (signature-only matching vs. behavior-based, ML-driven detection with full endpoint visibility). Covered EDR's three pillars — Visibility, Detection, Response — the telemetry it collects (process executions, network connections, command-line activity, file/registry modifications), and response actions like host isolation, process termination, and quarantine. Finished by investigating realistic medium/high-severity detections in a simulated EDR console and ordering the stages of a detection reaching a containment decision.
+- **Introduction to SIEM** - Studied why isolated, decentralized logs create blind spots (numerous log sources, no centralization, limited context, format inconsistency) and how a SIEM solves this through centralized collection, normalization, and correlation. Broke down host-centric vs. network-centric log sources, common Linux log locations, and log ingestion methods (agent/forwarder, syslog, manual upload, port-forwarding). Practiced writing detection rule logic (e.g., alerting on Event ID 4688 where the process name contains whoami) and completed a lab investigating a triggered alert.
+- **Splunk: The Basics** - Covered Splunk's three core components — Forwarder (collects and ships data), Indexer (parses/normalizes into field-value pairs), and Search Head (where SPL queries run). Navigated the Splunk Bar, Apps Panel, and dashboard, then practiced uploading VPN log data through the Add Data workflow.
+- **Elastic Stack: The Basics** - Learned ELK's four components — Elasticsearch (search/storage engine), Logstash (data processing/normalization), Beats (lightweight data shippers), and Kibana (visualization) — and how they chain together. Practiced searching and filtering in the Discover tab using KQL (free text and field-based searches with AND/OR/NOT operators), then built a table visualization of failed VPN connection attempts and combined it into a custom dashboard.
+- **Introduction to SOAR** - Reviewed the challenges traditional SOCs face (alert fatigue, disconnected tools, undocumented manual processes, talent shortage) and how SOAR's three pillars — Orchestration, Automation, and Response — solve them by unifying tools into a single interface and running predefined playbooks. Studied real playbook examples (phishing triage, CVE patching) and completed a practical scenario building a Threat Intelligence workflow, deciding which case-management actions (create/assign/communicate/update/delete a ticket) should be automated versus manual based on reversibility and risk.
+
+</details> 
+
+<details markdown="1"> 
+<summary><strong>Tools/Concepts I Used</strong></summary>
+
+Simulated EDR console, Simulated SIEM alert investigation lab, Splunk (Search & Reporting, SPL), Elastic Stack (Discover tab, KQL, Visualize, Dashboard), Simulated SOAR case management and playbook builder.
+
+</details>
+
+
+<details markdown="1">
+<summary><strong>What I Learned</strong></summary>
+  
+- How EDR's behavioral and anomaly-based detection catches threats that signature-based antivirus misses — and the natural data flow from telemetry collection, to correlated alert, to analyst validation, to containment.
+- Why raw logs from scattered devices are nearly useless without a SIEM to centralize, normalize, and correlate them into a single story.
+- The mechanics behind a SIEM detection rule: matching specific log source + event ID + field-value conditions to trigger an alert.
+- How Splunk's Forwarder → Indexer → Search Head pipeline turns raw logs into searchable field-value data.
+- How ELK's Beats → Logstash → Elasticsearch → Kibana pipeline mirrors that same collect-normalize-search-visualize pattern using open-source tools.
+- The reversibility/risk framework for deciding what a SOAR playbook should automate: low-risk, easily reversible actions (create/assign/notify/update a ticket) are safe to automate, while destructive or high-impact actions (deleting a ticket, wiping a system) stay manual with human approval.
+</details>
+
+
+
+
+--- 
+
+
+
+
