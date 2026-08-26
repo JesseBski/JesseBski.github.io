@@ -10,10 +10,17 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 
 
 ## My Skills
-
-**Cybersecurity:** SIEM Monitoring, Alert Triage & Escalation, Threat Detection, Incident Response, Malware Identification, Network Security, Access Control, Endpoint Security, Security Hardening, Data Security, Security Awareness
-
-**Technical:** Wireshark, Nmap, Linux (Permissions, Ownership, Networking Tools), Python, SQL, Java, VBA, Microsoft Office
+- **Security Operations:** SIEM Monitoring, Alert Triage & Escalation, Threat Detection, Incident Response/Coordination, Security 
+Investigation Documentation, EDR, SOAR, MITRE ATT&CK, CVSS
+- **SIEM Platforms & Tools:** Splunk (SPL, Search & Reporting), Elastic Stack (Elasticsearch, Logstash, Kibana, KQL), URL/IP Reputation 
+Checkers, Jira, TheHive 
+- **SOC Metrics & Frameworks:** MTTD/MTTA/MTTR, SLA Benchmarks, False Positive & Alert Escalation Rates, 5 W's Alert Reporting, 
+SOC Workbooks & Playbooks 
+- **Compliance & Risk:** NIST SP 800-171 Assessment, Defense Industrial Base (DIB) Compliance Support, Controls Gap Analysis, Risk 
+Documentation & Reporting 
+- **Technical:** Wireshark, Nmap, Active Directory, Linux (Permissions, Ownership, Networking Tools), PowerShell, Bash, Python, SQL, 
+Java, HTML, VBA, Microsoft Office 365 
+- **Professional:** Written & Verbal Communication, Customer Consultation, Team Collaboration, Independent Problem-Solving 
 
 **Certifications:** 
 - CompTIA Security+ (SYO-701) - [View My Certificate](CompTIA_Security+_ce_certificate.pdf)
