@@ -23,13 +23,21 @@ I am a recent graduate from Virginia Tech (B.S., BIT: Cybersecurity Management a
 # Projects
 > This section is where I update what I've been working on! Each project below will follow the same format: what I did, what tools I used, and what I learned. New projects go at the top. Click the drop-down menus to learn more!
 
+
+
 ---
+
+
 
 ## 🖥️ TryHackMe SOC Level 1 Learning Path (SAL1)
 - **Summary:** I'm working through TryHackMe's SOC Level 1 Learning Path, a hands-on learning track covering SOC team structure, alert triage, phishing investigation, and real-time simulated SOC scenarios - I'm documenting my progress as I go towards my SAL1 Certification. 
 - **View My Full TryHackMe Progress Page** → [Here](tryhackme.md)
 
+
+
 ---
+
+
 
 ## 🛡️ SOC Fundamentals — TryHackMe, SOC Level 1 Analyst
 
@@ -63,7 +71,11 @@ SIEM Alert Dashboard
 
 </details>
 
+
+
 ---
+
+
 
 ## 🌐 DECA Digital Hub — Website Project, Project Manager
 
@@ -103,7 +115,46 @@ Wix (Course Documentation Site) & Google Sites (DECA Club Deliverable Site)
 
 **View the Course Documentation Site → [Here](https://jessebski.wixsite.com/deca-digital-hub)** | **View the Club Deliverable Site → [Here](https://sites.google.com/vt.edu/bhs-deca/home)**
 
+
+
 ---
+
+## 🎣 Mastercard Cybersecurity Virtual Experience Program — Forage, Security Awareness Analyst
+ 
+**Summary:** In this virtual experience, I stepped into the role of a Security Analyst on Mastercard's Security Awareness Team. The program centered on the human side of cybersecurity — recognizing that employees are one of the most targeted parts of any organization's attack surface, and that a strong security awareness program is one of the most effective ways to reduce that risk without requiring a purely technical background.
+ 
+<details markdown="1">
+<summary><strong>What I did</strong></summary>
+  
+- Completed a job simulation acting as an analyst on Mastercard's Security Awareness Team
+- Helped identify and report simulated security threats, including phishing emails
+- Helped design a phishing email simulation used to test and train employees on recognizing threats
+- Analyzed which areas of the business were most exposed and needed more robust security training
+- Designed and proposed targeted training courses and procedures for those business units
+
+</details>
+
+<details markdown="1">
+<summary><strong>Tools Used</strong></summary>
+
+Simulated Security Awareness Dashboard, Phishing Email Simulation Design, Employee Risk Assessment Panel
+ 
+</details>
+
+<details markdown="1">
+<summary><strong>What I learned</strong></summary>
+
+- **Humans as an Attack Surface** - Cyber threats come in many forms beyond technical exploits, and employees are frequently the most targeted entry point into an organization.
+- **Security Doesn't Require a Technical Background** - You don't need deep technical skills to make a meaningful impact on a company's security posture; awareness, training design, and communication matter just as much.
+- **How Security Awareness Programs Work** - I saw how a Security Awareness team fits into a broader security organization, and why simulated phishing campaigns are used to measure and improve employee readiness rather than just react to real incidents.
+- **Turning Findings Into Action** - I learned how to translate a risk finding — like "this business unit is more exposed to phishing" — into a concrete, targeted training plan, rather than just flagging the problem and moving on.
+
+</details>
+
+
+---
+
+
 
 ## 🏕️ Eagle Scout Project — Troop 151, Project Lead
 
