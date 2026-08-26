@@ -79,7 +79,7 @@ SIEM Alert Dashboard
 
 ## 🌐 DECA Digital Hub — Website Project, Project Manager
 
-**Summary:** As part of a Virginia Tech project management course, we were tasked to work with a non-profit organization, meet their stakeholders, and discuss what our team could do to benefit the organization for years to come. During this class project, we were assigned to document all of our project's deliverables on our own website. My team partnered with a local high school's DECA club — a student-run business/marketing organization — to build them a new website. In the end my team was tasked with creating two separate websites: One to serve as the DECA club's new site, and one to document our project deliverables for our professor.
+**Summary:** As part of a Virginia Tech project management course, we were tasked to work with a non-profit organization, meet their stakeholders, and discuss what our team could do to benefit the organization for years to come. My team partnered with a local high school's DECA club — a student-run business/marketing organization — to build them a new website. In the end my team was tasked with creating two separate websites: One to serve as the DECA club's new site, and one to document our project deliverables for our professor.
 
 <details markdown="1">
 <summary><strong>What I did</strong></summary>
