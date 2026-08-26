@@ -24,7 +24,7 @@ Java, HTML, VBA, Microsoft Office 365
 
 **Certifications:** 
 - CompTIA Security+ (SYO-701) - [View My Certificate](CompTIA_Security+_ce_certificate.pdf)
-- - Datacom Service Desk Job Simulation - [View My Certificate](Service_Desk_Sim_Forage_certificate.pdf)
+- Datacom Service Desk Job Simulation - [View My Certificate](Service_Desk_Sim_Forage_certificate.pdf)
 - Mastercard Cybersecurity Virtual Experience Program - [View My Certificate](Cybersecurity_Job_Sim_Forage_certificate.pdf)
 
 
