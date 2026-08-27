@@ -42,6 +42,44 @@ Java, HTML, VBA, Microsoft Office 365
 - **View My Full TryHackMe Progress Page** → [Here](tryhackme.md)
 
 
+---
+
+
+
+## 🎧 Datacom Service Desk Agent Virtual Experience Program — Forage, Service Desk Agent
+
+**Summary:** In this virtual experience, I stepped into the role of a service desk agent at Datacom, handling support tickets end-to-end — from diagnosing a client's email access issue to triaging a simulated multi-client network outage using ITIL incident management principles.
+
+<details markdown="1">
+<summary><strong>What I did</strong></summary>
+
+- Diagnosed a client's email access issue by working through potential causes — password problems, connectivity issues, and a browser-specific root cause — before resolving it
+- Guided the client through clearing their browser's cache and cookies and confirming access via an incognito window, resolving the issue and providing a preventive tip for the future
+- Documented the full troubleshooting process in a formal incident report, covering root cause analysis, resolution steps, and follow-up recommendations
+- Reviewed and triaged a batch of incoming support tickets during a simulated multi-client network outage, categorizing them by priority (High/Medium/Low) based on business impact and urgency
+- Escalated the critical network outage to the appropriate technical team following ITIL incident management processes
+- Drafted a client-facing update communicating the cause of the outage, resolution progress, and estimated timeline, balancing transparency with reassurance
+
+</details>
+
+<details markdown="1">
+<summary><strong>Tools Used</strong></summary>
+
+Simulated Ticketing System, Incident Report Template, ITIL Incident Management Framework
+
+</details>
+
+<details markdown="1">
+<summary><strong>What I learned</strong></summary>
+
+- **ITIL in Practice** - This was my first hands-on exposure to ITIL incident management concepts, and it gave me a much clearer picture of how major incidents get categorized, escalated, and tracked in a real support environment.
+- **Structured Troubleshooting** - Working through potential causes systematically, rather than jumping to conclusions, that made it much easier to isolate the actual root cause of a technical issue.
+- **Prioritization Under Pressure** - I learned how to weigh urgency against business impact when triaging multiple tickets at once, rather than treating every ticket as equally urgent.
+- **Client Communication During an Incident** - Drafting the outage communication taught me how to balance technical accuracy with empathy and reassurance, especially when you don't yet have a full resolution to offer.
+
+</details>
+
+
 
 ---
 
